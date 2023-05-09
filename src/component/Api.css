@@ -1,0 +1,69 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.Button{
+    position: relative;
+
+}
+.btn1{
+    position: fixed;
+    font-size: 25px;
+    width: 9rem;
+    top: 18rem;
+   
+    left: 12rem;
+    border-radius: 37px;
+    box-shadow: 2px 3px 4px black;
+    padding: 18px;
+    font-family: economic;
+}
+.btn2{
+    position:fixed;
+    font-size: 25px;
+    width: 9rem;
+    top: 18rem;
+   
+    left: 25rem;
+    border-radius: 37px;
+    box-shadow: 2px 3px 4px black;
+    padding: 18px;
+    font-family: economic;
+}
+.movies-card{
+    overflow: auto;
+    border: 2px solid black;
+    width: 23rem;
+    height: 29rem;
+    margin-left: 40rem;
+    margin-bottom: 8px;
+    border-radius: 20px;
+    background-color: #0020ff45;
+}
+.card-title{
+    text-align: center;
+    font-size: 27px;
+    font-family: economic;
+}
+.Rating{
+    text-align: center;
+    font-family: economic;
+    font-size: 28px;
+    margin: 4px;
+}
+.card-text{
+ 
+    font-family: economic;
+    font-size: 15px;
+    text-align: center;
+    margin-top: 26px;
+}
+
+.card>img{
+    width: 362px;
+    border-radius: 17px;
+    margin-left: 2px;
+    margin-top: 2px;
+  
+}
+
